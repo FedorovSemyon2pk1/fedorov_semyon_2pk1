@@ -1,0 +1,16 @@
+C:\Users\ильнур\source\repos\pz_15\pz_15\bin\Debug\net5.0\pz_15.exe
+C:\Users\ильнур\source\repos\pz_15\pz_15\bin\Debug\net5.0\pz_15.deps.json
+C:\Users\ильнур\source\repos\pz_15\pz_15\bin\Debug\net5.0\pz_15.runtimeconfig.json
+C:\Users\ильнур\source\repos\pz_15\pz_15\bin\Debug\net5.0\pz_15.runtimeconfig.dev.json
+C:\Users\ильнур\source\repos\pz_15\pz_15\bin\Debug\net5.0\pz_15.dll
+C:\Users\ильнур\source\repos\pz_15\pz_15\bin\Debug\net5.0\ref\pz_15.dll
+C:\Users\ильнур\source\repos\pz_15\pz_15\bin\Debug\net5.0\pz_15.pdb
+C:\Users\ильнур\source\repos\pz_15\pz_15\obj\Debug\net5.0\pz_15.csproj.AssemblyReference.cache
+C:\Users\ильнур\source\repos\pz_15\pz_15\obj\Debug\net5.0\pz_15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ильнур\source\repos\pz_15\pz_15\obj\Debug\net5.0\pz_15.AssemblyInfoInputs.cache
+C:\Users\ильнур\source\repos\pz_15\pz_15\obj\Debug\net5.0\pz_15.AssemblyInfo.cs
+C:\Users\ильнур\source\repos\pz_15\pz_15\obj\Debug\net5.0\pz_15.csproj.CoreCompileInputs.cache
+C:\Users\ильнур\source\repos\pz_15\pz_15\obj\Debug\net5.0\pz_15.dll
+C:\Users\ильнур\source\repos\pz_15\pz_15\obj\Debug\net5.0\ref\pz_15.dll
+C:\Users\ильнур\source\repos\pz_15\pz_15\obj\Debug\net5.0\pz_15.pdb
+C:\Users\ильнур\source\repos\pz_15\pz_15\obj\Debug\net5.0\pz_15.genruntimeconfig.cache
